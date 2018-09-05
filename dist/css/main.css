@@ -164,8 +164,6 @@ main {
   grid-template-columns: repeat(3, 1fr); }
   .about-info .bio-image {
     grid-area: bioimage;
-    width: 250px;
-    height: 250px;
     margin: auto;
     border-radius: 50%;
     border: #eece1a 3px solid; }
